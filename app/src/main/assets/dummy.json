@@ -1,0 +1,97 @@
+{
+	"username": "jackdorsey",
+	"password": "twittersquare",
+	"activities": [
+		{
+			"organization": "Curry Without Worry",
+			"pic": "food.png",
+			"description": "Curry Without Worry believes that hunger is not defined by an empty stomach, so they're open to whomever hungers. Dinner served at 5:30pm at UN Plaza",
+			"starttime": "2015-09-01T13:00:00Z",
+			"endtime": "2015-09-01T16:00:00Z",
+			"place": "First Baptist Church, Octavia and Waller"
+		},
+		{
+			"organization": "Golden Gate Audubon Society",
+			"pic": "gate.png",
+			"description": "Coastal Cleanup. Golden Gate Audubon Society is dedicated to protecting Bay Area birds, other wildlife, and their natural habitats by restoring habitats and connecting people of all ages and backgrounds with the natural world",
+			"starttime": "2015-09-03T16:00:00Z",
+			"endtime": "2015-09-03T18:00:00Z",
+			"place": "Pier 94, 480 Amador Street"
+		},
+
+		{
+			"organization": "The Arc SF",
+			"pic": "arc.png",
+			"description": "Evening recreation group game and movie night. The Arc San Francisco is a lifelong learning and achievement center for over 700 individuals with developmental disabilities in San Francisco, San Mateo and Marin counties",
+			"starttime": "2015-09-04T18:00:00Z",
+			"endtime": "2015-09-04T20:00:00Z",
+			"place": "1500 Howard Street"
+		},
+
+		{
+			"organization": "Tenderloin Safe Passage",
+			"pic": "safe.png",
+			"description": "Paint a sidewalk mural to help Tenderloin kids get around the neighborhood safely. Tenderloin Safe Passage is a community of neighborhood groups, parents, youth-serving agencies, and schools dedicated to making the Tenderloin neighborhood a safer place for all",
+			"starttime": "2015-09-08T08:00:00Z",
+			"endtime": "2015-09-08T10:00:00Z",
+			"place": "246 Eddy Street"
+		},
+
+		{
+			"organization": "St. Anthony's ",
+			"pic": "food.png",
+			"description": "Serve a meal or volunteer as a group.Every day, St. Anthony's provides essential support to those living in poverty in SF",
+			"starttime": "2015-09-12T14:00:00Z",
+			"endtime": "2015-09-12T16:00:00Z",
+			"place": "150 Golden Gate Avenue"
+		},
+
+		{
+			"organization": "SF Food Bank",
+			"pic": "bank.png",
+			"description": "Volunteer shift. SF Food Bank (our partner for go/give) distributes food throughout the city to people from all walks of life",
+			"starttime": "2015-09-15T04:00:00Z",
+			"endtime": "2015-09-15T06:00:00Z",
+			"place": "900 Pennsylvania Avenue"
+		},
+
+		{
+			"organization": "At the Crossroads",
+			"pic": "safe.png",
+			"description": "Volunteer shift. At the Crossroads seeks to reach out to homeless youth and young adults at their point of need and work with them to build healthy and fulfilling lives",
+			"starttime": "2015-09-20T14:00:00Z",
+			"endtime": "2015-09-20T16:00:00Z",
+			"place": "333 Valencia Street, Suite 320"
+		},
+
+		{
+			"organization": "826 Valencia",
+			"pic": "826.png",
+			"description": "Volunteer shift. 826 Valencia is dedicated to supporting under-resourced students ages 6-18 with their creative and expository writing skills and helping teachers inspire their students to write",
+			"starttime": "2015-09-21T12:00:00Z",
+			"endtime": "2015-09-21T14:00:00Z",
+			"place": "826 Valencia Street"
+		},
+
+
+		{
+			"organization": "Project Open Hand",
+			"pic": "proj.png",
+			"description": "Volunteer shift. Project Open Hand provides meals with love to seniors and the critically ill",
+			"starttime": "2015-09-30T19:00:00Z",
+			"endtime": "2015-09-30T22:00:00Z",
+			"place": "730 Polk Street"
+		},
+
+		{
+			"organization": "Friends of the Urban Forest",
+			"pic": "urban.png",
+			"description": "Tree planting. Friends of the Urban Forest promotes a larger, healthier urban forest as part of San Francisco’s green infrastructure through community planting, tree care, education, and advocacy",
+			"starttime": "2015-10-02T16:00:00Z",
+			"endtime": "2015-10-02T18:00:00Z",
+			"place": "1007 General Kennedy Ave Suite 1"
+		},
+
+	]
+
+}
